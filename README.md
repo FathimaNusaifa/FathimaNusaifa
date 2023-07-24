@@ -1,6 +1,6 @@
 <h1 align="center">Hey Everyone 👋 I'm Nusaifa Noushad</h1>
 
-<h4 align="center">As a responsible, skillful, and self-learning undergraduate with a passion for software engineering, I am driven by the desire to explore and apply cutting-edge technologies within the dynamic field of Information Technology. With a strong dedication to personal and professional growth. Highly motivated, curious, energetic individual who prefers to embrace challenges, With a strong dedication to personal and professional growth.
+<h4 align="center">As a responsible, skillful, and self-learning undergraduate with a passion for software engineering, I am driven by the desire to explore and apply cutting-edge technologies within the dynamic field of Information Technology. With a strong dedication to personal and professional growth. 
 </h4>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
